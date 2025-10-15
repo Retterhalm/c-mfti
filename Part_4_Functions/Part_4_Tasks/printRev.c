@@ -1,5 +1,5 @@
 /*
-    Reverse print of the proving 6-digits number
+    Reverse print of the providing 6-digits number
     by Denis Kuznetsov aka Retterhalm  
     12.10.2025
 */
